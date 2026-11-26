@@ -1,0 +1,6 @@
+*.key
+*.pem
+*.msi
+*.pl.tmp
+*.log
+Thumbs.db
